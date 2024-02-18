@@ -1,5 +1,5 @@
 import styles from './App.module.css';
-import Hero from './componets/Navbar/Hero/Hero';
+import Hero from './componets/Hero/Hero';
 import Navbar from './componets/Navbar/Navbar';
 
 
